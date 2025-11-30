@@ -46,16 +46,10 @@ export const metadata = {
       "شركة المنتهى الدولية — استيراد وتوزيع أجهزة كهربائية وكهرومنزلية بجودة عالية وتقنيات حديثة تلائم كل بيت.",
     images: [
       {
-        url: "/meta/og-hero.jpg",
+        url: "/meta/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "المنتهى الدولية — أجهزة كهربائية وكهرومنزلية",
-      },
-      {
-        url: "/meta/products-banner.jpg",
-        width: 1920,
-        height: 1080,
-        alt: "منتجات المنتهى الكهربائية",
       },
     ],
   },
