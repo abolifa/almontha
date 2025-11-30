@@ -1,14 +1,14 @@
 {
   "hero": {
-    "logoAlt": "Al-Muntaha International",
-    "title": "Al-Muntaha International",
-    "subtitle": "Importing electrical appliances & home electronics",
+    "logoAlt": "Al-Montaha Aldawlia",
+    "title": "Al-Montaha Aldawlia",
+    "subtitle": "importing home appliances",
     "description": "World-class quality, reliable solutions, and technologies built for the future. Performance, luxury, and innovation in every product we deliver.",
     "button": "Contact Us Now"
   },
   "about": {
     "title": "About Us",
-    "logoAlt": "Al-Muntaha International",
+    "logoAlt": "Al-Montaha Aldawlia",
     "vision": {
       "title": "Our Vision",
       "text": "We strive to be the leading choice for premium home electrical appliances with world-class standards and an elegant purchasing experience."
@@ -90,7 +90,7 @@
     "address": "Abad Road - Misurata | Libya"
   },
   "footer": {
-    "description": "Al-Muntaha International — Quality, trust & innovation in the world of modern home appliances.",
+    "description": "Al-Montaha Aldawlia — Quality, trust & innovation in the world of modern home appliances.",
     "links": {
       "title": "Quick Links",
       "home": "Home",
@@ -102,7 +102,7 @@
       "title": "Direct Contact",
       "address": "Abad Road - Misurata | Libya"
     },
-    "copyright": "Al-Muntaha International — All rights reserved"
+    "copyright": "Al-Montaha Aldawlia — All rights reserved"
   },
   "navbar": {
     "home": "Home",
