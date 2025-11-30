@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "logoAlt": "Al-Muntaha International",
+    "title": "Al-Muntaha International",
+    "subtitle": "Importing electrical appliances & home electronics",
+    "description": "World-class quality, reliable solutions, and technologies built for the future. Performance, luxury, and innovation in every product we deliver.",
+    "button": "Contact Us Now"
+  },
+  "about": {
+    "title": "About Us",
+    "logoAlt": "Al-Muntaha International",
+    "vision": {
+      "title": "Our Vision",
+      "text": "We strive to be the leading choice for premium home electrical appliances with world-class standards and an elegant purchasing experience."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "Deliver real value through refined products combining high craftsmanship and advanced technology to serve every home at the highest level."
+    },
+    "values": {
+      "title": "Our Values",
+      "text": "Transparency, precision, product reliability, continuous innovation, and providing a smooth & enjoyable customer experience."
+    },
+    "whyUs": {
+      "title": "Why Choose Us",
+      "text": "We carefully select products with luxurious design and true performance value, ensuring trust and comfort in every use."
+    }
+  },
+  "sectors": {
+    "title": "Our Sectors",
+    "description": "We provide a wide range of electrical devices and equipment with high quality and reliable options",
+    "items": {
+      "homeAppliances": "Home Electrical Appliances",
+      "lighting": "Lighting & Illumination Systems",
+      "power": "Power Solutions, Batteries & Charging",
+      "electronics": "Modern Electronic Devices",
+      "safety": "Safety Equipment & Stable Power Systems",
+      "logistics": "Supply, Distribution & Logistics"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "items": {
+      "ac": {
+        "title": "High-Efficiency Air Conditioners",
+        "text": "Smart cooling technology, low power consumption, and quiet operation suitable for homes and commercial spaces."
+      },
+      "oven": {
+        "title": "Electric & Gas Ovens",
+        "text": "Precise temperature control, multiple cooking modes, and heat-resistant stainless design."
+      },
+      "tv": {
+        "title": "Smart TV Screens",
+        "text": "UHD / 4K clarity, deep colors, smart connectivity and luxurious viewing experience."
+      },
+      "microwave": {
+        "title": "Microwave & Kitchen Appliances",
+        "text": "Multiple cooking functions, high safety, and easy interface with excellent performance efficiency."
+      },
+      "fridge": {
+        "title": "Refrigerators & Deep Freezers",
+        "text": "Stable cooling, balanced air distribution, and practical internal layout for long-term storage."
+      },
+      "washing": {
+        "title": "Washing Machines & Dryers",
+        "text": "Low energy consumption, fabric protection and washing modes for daily use."
+      }
+    }
+  },
+  "brands": {
+    "title": "Brands",
+    "partnersTitle": "Official Partners",
+    "importsTitle": "We Also Provide Other Trusted Brands"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Write your message here",
+      "send": "Send"
+    },
+    "status": {
+      "sending": "Sending...",
+      "success": "✔ Sent successfully",
+      "error": "⚠ Error while sending",
+      "serverError": "⚠ Server connection failed"
+    },
+    "address": "Abad Road - Misurata | Libya"
+  },
+  "footer": {
+    "description": "Al-Muntaha International — Quality, trust & innovation in the world of modern home appliances.",
+    "links": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About Us",
+      "products": "Products",
+      "contact": "Contact Us"
+    },
+    "contact": {
+      "title": "Direct Contact",
+      "address": "Abad Road - Misurata | Libya"
+    },
+    "copyright": "Al-Muntaha International — All rights reserved"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "sectors": "Sectors",
+    "products": "Products",
+    "brands": "Brands",
+    "contact": "Contact"
+  }
+}
